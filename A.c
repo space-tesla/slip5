@@ -28,6 +28,16 @@ int main() {
 }
 
 
+
+
+
+
+How To Run
+--->  cc slip.c
+---> ./a.out
+--->  gcc slip.c -o slip
+---> ./slip slip.c
+
 Output:
 
 Files in the current directory:
